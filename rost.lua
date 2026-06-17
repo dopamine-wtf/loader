@@ -1,1 +1,1 @@
-print("not yet bruh")
+print(not yet bruh)
