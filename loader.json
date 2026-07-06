@@ -38,7 +38,7 @@
     {
       "name": "Trident Rage",
       "color": "yellow",
-      "update": false,
+      "update": true,
       "desc": "This game is just another Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nSilent Aim\nGun Modifiers\nPlayer ESP\nWorld ESP\nWorld Visuals\nFPS Boosters\nJetpack Fly\nSlid Speed Hack"
     },
     {
