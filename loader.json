@@ -2,49 +2,50 @@
   "freekey": true,
   "keyless": false,
   "blacklistedHwids": [
-    "cb2050591e9721d54b3d187d20c32b8c5275e043a97c5ea46a4391257eeaefeca1567db285989e399d045f7f68abd61c6d845cf07dc50604c717fdb99772f1b4SKIBIDY"
+    "945623d7-db38-11ef-9386-806e6f6e6963",
+    "5fffa4c0-29de-11eb-9669-806e6f6e6963",
+    "4defef7b-0d5f-11f1-89d9-806e6f6e6963"
   ],
   "games": [
     {
       "name": "Lone Survival",
       "color": "green",
       "update": false,
-      "tooltip": "Laggy + High Chance Of Crashing",
+      "tooltip": "Best Rust clone cheat with silent aim and ESP",
       "desc": "This game is just a Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nSilent Aim\nAimbot\nGun Modifiers\nPlayer ESP\nWorld ESP\nMovement Cheats"
     },
     {
       "name": "Rost Alpha",
       "color": "green",
       "update": false,
-      "tooltip": "Laggy + May Crash",
+      "tooltip": "Full feature set with visuals and weapon mods",
       "desc": "This game is just another Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nSilent Aim\nAimbot\nAuto-Shoot\nWeapon Mods\nPlayer ESP\nWorld ESP\nVisuals\nMovement"
     },
     {
       "name": "The Armory",
       "color": "green",
       "update": false,
-      "tooltip": "May Crash",
+      "tooltip": "Extraction shooter cheat with spinbot",
       "desc": "This game is just a extraction shooter typa game, you run out with nothing and you loot or kill others for loot, best guns are emeralds then transendent then divine then mythic\n\nFeatures:\nSilent Aim\nAimbot\nWeapon Mods\nPlayer ESP\nWorld ESP\nMovement\nSpinbot"
     },
     {
       "name": "Universal",
       "color": "green",
       "update": false,
-      "tooltip": "May be detected on some games",
+      "tooltip": "Works in any game - camera aimbot + ESP",
       "desc": "Its a universal script, pretty self explanatory, you can use it in really any game :\\\n\nFeatures:\nCamera Aimbot\nPlayer ESP\nMovement"
     },
     {
       "name": "Trident Legit",
       "color": "green",
       "update": false,
-      "tooltip": "Perfect, nothing to say about this ;)",
+      "tooltip": "Legit visuals with image-based ESP",
       "desc": "This game is just another Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nChams\nWeapon Image ESP\nArmor Image ESP\nDistance ESP"
     },
     {
       "name": "Trident Rage",
       "color": "yellow",
       "update": false,
-      "tooltip": "Works but is slightly laggy and EXTREMLY high chance of crashing",
       "desc": "This game is just another Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nSilent Aim\nGun Modifiers\nPlayer ESP\nWorld ESP\nWorld Visuals\nFPS Boosters\nJetpack Fly\nSlid Speed Hack"
     },
     {
