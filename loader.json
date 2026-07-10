@@ -3,7 +3,6 @@
   "keyless": false,
   "blacklistedHwids": [
     "945623d7-db38-11ef-9386-806e6f6e6963",
-    "4166288c917ef8fb62fb7b9323659b718ad41d1b56f39c33f216d24a17ca81bd",
     "4defef7b-0d5f-11f1-89d9-806e6f6e6963"
   ],
   "games": [
