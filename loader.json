@@ -15,10 +15,9 @@
     },
     {
       "name": "Rost Alpha",
-      "color": "green",
+      "color": "white",
       "update": false,
-      "tooltip": "Full feature set with visuals and weapon mods",
-      "desc": "This game is just another Rust rip-off, its bassically just a survival game about building, shooting, and looting\n\nFeatures:\nSilent Aim\nAimbot\nAuto-Shoot\nWeapon Mods\nPlayer ESP\nWorld ESP\nVisuals\nMovement"
+      "desc": "Developing Currently"
     },
     {
       "name": "The Armory",
