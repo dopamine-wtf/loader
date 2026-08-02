@@ -15,9 +15,9 @@
     },
     {
       "name": "Rost Alpha",
-      "color": "white",
-      "update": false,
-      "desc": "Developing Currently"
+      "color": "green",
+      "update": true,
+      "desc": "Fully released with BRAND NEW ui!"
     },
     {
       "name": "The Armory",
