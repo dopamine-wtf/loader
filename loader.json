@@ -1,5 +1,5 @@
 {
-  "freekey": true,
+  "freekey": false,
   "keyless": false,
   "blacklistedHwids": [
     "945623d7-db38-11ef-9386-806e6f6e6963",
